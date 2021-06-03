@@ -1,0 +1,298 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+}
+.maindiv{
+  width: 1773px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
+.Rectangle-10 {
+    width: 1366px;
+    height: 480px;
+    margin: 0 0 48px;
+    padding: 17px 101px 81px 306px;
+    background-image: linear-gradient(to bottom, rgba(157, 14, 14, 0), #4f0707), url(./images/shutterstock_348320018.jpg);
+    background-size: cover;
+  }
+  .Rectangle-10 .nav
+  {
+    display: flex;
+  }
+  .Rectangle-10 .nav .Login {
+    width: 43px;
+    height: 23px;
+    margin: 29px 23px 428px 1015px;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.56;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+  }
+  .Rectangle-10 .nav .Rectangle-17 {
+    width: 181px;
+    height: 46px;
+    margin: 17px 0 0 26px;
+    padding: 12px 14px 11px 15px;
+    border-radius: 3px;
+    border: solid 1px #ffffff;
+    background-color: transparent;
+    color: #ffffff;
+  }
+  .Rectangle-10 .Ellipse-1 {
+    width: 113px;
+    height: 143px;
+    margin: -400px 258px 22px 490px;
+    padding: 24px 40px 24px 39px;
+    border: solid 1px #707070;
+    border-radius: 50%;
+    background-color: #ffffff;
+  }
+  .Rectangle-10 .Ellipse-1 .e {
+    width: 68px;
+    height: 99px;
+    font-family: Poppins;
+    font-size: 90px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.51;
+    letter-spacing: normal;
+    text-align: left;
+    color: #eb2929; 
+    margin-left: 22px;
+    margin-top: 0px;
+  }
+  .Rectangle-10 .Find-the-best-restaurants-cafs-and-bars {
+    width: 754px;
+    height: 51px;
+    margin: 23px 205px 38px 272px;
+    font-family: Poppins;
+    font-size: 36px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+  }
+  .Rectangle-10 .inputBx{
+    margin-left: -3px;
+  }
+  .Rectangle-10 .Rectangle-2 {
+    width: 147px;
+    height: 10px;
+    margin: 0 21px 0 270px;
+    padding: 21px 57px 18px 23px;
+    background-color: #ffffff;
+    outline: none;
+    border-radius: 5px;
+    font-family: Poppins;
+  }
+  .Rectangle-10 .Rectangle-3 {
+    width: 190px;
+    height: 10px;
+    margin: 0 0 0 21px;
+    padding: 21px 249px 18px 24px;
+    background-color: #ffffff;
+    font-family: Poppins, FontAwesome;
+    outline: none;
+    border-radius: 5px;
+    /* font-family: Poppins; */
+  }
+  .Web-1920-1 {
+    width: 1773px;
+    height: 590px;
+    margin-top: -86px;
+    background-color: #fbfbfb;
+  }
+  .Web-1920-1 .Quick-Searches {
+    width: 239px;
+    height: 43px;
+    margin: 0px 151px 7px 113px;
+    padding-top: 40px;
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: bolder;
+    font-stretch: normal;
+    font-style: Poppins;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+  }
+  .Web-1920-1 .Discover-restaurants-by-type-of-meal {
+    width: 331px;
+    height: 25px;
+    margin: 7px 59px 33px 113px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #8c96ab;
+  }
+  .Web-1920-1 .boxes2{
+    display: flex;
+  }
+  .Web-1920-1 .boxes{
+    display: flex;
+  }
+  .Web-1920-1 .Rectangle-5 {
+    width: 360px;
+    height: 160px;
+    margin: 33px 30px 26px 113px;
+    padding: 0 34px 0 0;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color: #ffffff;
+    /* display: flex; */
+  }
+  .Web-1920-1 .Rectangle-5 .shutterstock_1154073754 {
+    width: 175px;
+    height: 160px;
+    margin: 0 29px 0 0;
+    object-fit: cover;
+    /* background-size: cover; */
+  }
+  .Web-1920-1 .Rectangle-5 .shutterstock_1130181932 {
+    width: 175px;
+    height: 160px;
+    margin: 0 29px 0 0;
+    object-fit: cover;
+    /* background-size: cover; */
+  }
+  .Web-1920-1 .Rectangle-5 .shutterstock_351721442 {
+    width: 160px;
+    height: 159.9px;
+    object-fit: cover;
+    /* background-size: cover; */
+  }
+  .Web-1920-1 .Rectangle-5 .shutterstock_476864884 {
+    width: 160px;
+    height: 160px;
+    margin: 0 29px 0 0;
+    object-fit: cover;
+    /* background-size: cover; */
+  }
+  .Web-1920-1 .Rectangle-5 .shutterstock_305270834 {
+    width: 160px;
+    height: 160px;
+    margin: 0 29px 0 0;
+    object-fit: cover;
+    /* background-size: cover; */
+  }
+  .Web-1920-1 .Rectangle-5 .shutterstock_1304064250 {
+    width: 160px;
+    height: 160px;
+    margin: 0 29px 0 0;
+    object-fit: cover;
+  }
+  .Web-1920-1 .Rectangle-5 .Breakfast {
+    width: 88px;
+    height: 25px;
+    margin: -140px 49px 4px 200px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+  }
+  .Web-1920-1 .Rectangle-5 .Start-your-day-with-exclusive-breakfast-options {
+    width: 137px;
+    height: 62px;
+    margin: 8px 0 44px 200px;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #8c96ab;
+  }
+  .Web-1920-1 .Rectangle-5 .Lunch {
+  width: 55px;
+  height: 25px;
+  margin: -140px 49px 4px 200px;
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #192f60;
+}
+.Web-1920-1 .Rectangle-5 .Snacks {
+width: 55px;
+height: 25px;
+margin: -140px 49px 4px 200px;
+font-family: Poppins;
+font-size: 18px;
+font-weight: 600;
+font-stretch: normal;
+font-style: normal;
+line-height: 1.5;
+letter-spacing: normal;
+text-align: left;
+color: #192f60;
+}
+.Web-1920-1 .Rectangle-5 .Dinner {
+width: 55px;
+height: 25px;
+margin: -140px 49px 4px 200px;
+font-family: Poppins;
+font-size: 18px;
+font-weight: 600;
+font-stretch: normal;
+font-style: normal;
+line-height: 1.5;
+letter-spacing: normal;
+text-align: left;
+color: #192f60;
+}
+.Web-1920-1 .Rectangle-5 .Drinks {
+width: 55px;
+height: 25px;
+margin: -140px 49px 4px 200px;
+font-family: Poppins;
+font-size: 18px;
+font-weight: 600;
+font-stretch: normal;
+font-style: normal;
+line-height: 1.5;
+letter-spacing: normal;
+text-align: left;
+color: #192f60;
+}
+.Web-1920-1 .Rectangle-5 .Nightlife {
+width: 55px;
+height: 25px;
+margin: -140px 49px 4px 200px;
+font-family: Poppins;
+font-size: 18px;
+font-weight: 600;
+font-stretch: normal;
+font-style: normal;
+line-height: 1.5;
+letter-spacing: normal;
+text-align: left;
+color: #192f60;
+}
